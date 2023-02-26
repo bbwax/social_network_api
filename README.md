@@ -16,6 +16,7 @@ This project is a social network API that allows you to handle large amounts of 
 To get started with this project, you should have Node.js and MongoDB installed on your local machine. Clone this repository and install the required dependencies using the following command: npm install To start the server and sync the Mongoose models to the MongoDB database, use the following command: npm start 
 
 ## WalkThrough Video <a id="Walkthrough"></a>
+https://drive.google.com/file/d/1cxQUcW80uKhvUT8Mjk6Jgmzt8_XMnR_B/view
 
 
 ## Usage <a id="Usage"></a>
